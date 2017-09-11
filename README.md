@@ -1,3 +1,5 @@
+yay
+
 # A Quick Introduction To Sinatra
 
 ## What Is Sinatra?
